@@ -1,5 +1,5 @@
 # CallCounts
-## Python to count numbers and types of call days from spreadsheet-style hospital call schedules 
+## iPython notebook to count numbers and types of call days from spreadsheet-style hospital call schedules 
 
 Although commercial scheduling software exists, it is often pricey and not all hospitals/departments routinely use it. 
 Without commercial scheduling software, we often end up creaiting (and emailing and re-eamiling) Excel-style schedule documents, listing who is covering what on which days. 
